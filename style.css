@@ -6,7 +6,7 @@ body {
 .sidebar {
     position: fixed;
     background-color: black;
-    height: 789px;
+    height: 100%;
     width: 30%;
     opacity: 70%;
     color: aliceblue;
@@ -14,6 +14,6 @@ body {
     
 }
 img {
-    height: 789px;
-    width: 2000px;
+    height: 100%;
+    width: 150%;
 }
